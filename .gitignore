@@ -112,4 +112,5 @@ ENV/
 
 # Vagrant test files
 build-scripts/.vagrant
-tests/integration/.vagrant/
+tests/example1.dmp
+tests/example2.dmp
